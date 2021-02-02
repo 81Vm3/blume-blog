@@ -1,0 +1,82 @@
+---
+layout: post
+title: "个人介绍"
+author: "Blume"
+permalink: /about/
+---
+
+## 快速了解
+Blume (aka 81Vm3)，坐标Huizhou, China, 是名痴迷于cyber & programmin'技术的高中生 :)
+
+## 技能
+- C, C++, Python, HTML, JavaScript (我是JS菜狗)
+- Linux, 
+- 网络安全 (学习中..)
+
+## 不喜欢的东西 (非常讨厌)
+- Being watched
+- 隐私泄露
+- 网络杀M战士
+
+## 联系方式
+你可以通过以下方式来联系我
+- **p3g4sus@foxmail.com**
+- [GitHub](https://github.com/81Vm3)
+- [电报](https://t.me/voy4g3r)
+- 微信
+  * <img src="/assets/wechat.jpg" height="128"/>
+
+## PGP 公钥
+
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+
+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
+=uRhZ
+
+-----END PGP PUBLIC KEY BLOCK-----
