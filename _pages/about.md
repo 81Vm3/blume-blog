@@ -6,25 +6,18 @@ permalink: /about/
 ---
 
 ## 快速了解
-Blume (aka 81Vm3)，坐标Huizhou, China, 是名痴迷于cyber & programmin'技术的高中生 :)
+Blume (aka 81Vm3)，苦逼高中生。在你了解我之前，其他信息都不重要
 
 ## 技能
 - C, C++, Python, HTML, JavaScript (我是JS菜狗)
 - Linux, 
 - 网络安全 (学习中..)
 
-## 不喜欢的东西 (非常讨厌)
-- Being watched
-- 隐私泄露
-- 网络杀M战士
-
 ## 联系方式
 你可以通过以下方式来联系我
 - **p3g4sus@foxmail.com**
 - [GitHub](https://github.com/81Vm3)
 - [电报](https://t.me/voy4g3r)
-- 微信
-  * <img src="/assets/wechat.jpg" height="128"/>
 
 ## PGP 公钥
 
